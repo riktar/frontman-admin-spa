@@ -1,0 +1,1 @@
+[{"key":"Home","props":{"path":"/","exact":true}},{"key":"Settings","props":{"path":"/settings"}},{"key":"Http404","props":{"path":"*"}}]
